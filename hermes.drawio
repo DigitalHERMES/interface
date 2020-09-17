@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-10T21:32:57.851Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="BvrFVk7QflQTBWLkCqxD" version="13.6.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-09-17T23:44:28.897Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="E3p7mNjts3x1WdBbuI_P" version="13.7.1" type="github" pages="2">
   <diagram id="g7c_GHesMCIOPnkJEdXZ" name="Page-1">
-    <mxGraphModel dx="1157" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1185" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -142,7 +142,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BR5eN3wDMFa7yCFhATpI-180" value="home" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="420" y="10" width="120" height="60" as="geometry" />
+          <mxGeometry x="420" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BR5eN3wDMFa7yCFhATpI-181" value="cadastra admins" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="753" y="359" width="120" height="60" as="geometry" />
@@ -153,10 +153,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BR5eN3wDMFa7yCFhATpI-183" value="cadastra telefone" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1140" y="110" width="120" height="60" as="geometry" />
+          <mxGeometry x="920" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BR5eN3wDMFa7yCFhATpI-185" value="entrar com &lt;br&gt;usuario e senha" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1140" y="190" width="120" height="60" as="geometry" />
+          <mxGeometry x="920" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BR5eN3wDMFa7yCFhATpI-187" value="admin" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="593" y="140" width="120" height="40" as="geometry" />
@@ -191,7 +191,7 @@
         <mxCell id="6cBSwd_j-WNA6CGlCiIj-28" value="não transmitidas" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="290" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="plBp9kkPD8xGYtj1wmp--2" value="email" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="plBp9kkPD8xGYtj1wmp--2" value="email" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="130" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
