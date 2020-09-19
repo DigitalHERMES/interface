@@ -1,0 +1,29 @@
+* {
+
+	font-family: helvetica, arial, sans-serif;
+	font-size: 24px;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	max-width: 250px;
+	margin: 20px auto;
+}
+
+#login a, #login button, #sysadmin a, #sysadmin button {
+	display: block;
+}
+
+ #sysadmin{
+	margin-left: 25px;
+}
+
+header {
+	margin-bottom: 24px;
+}
+
+header h1 {
+	font-weight: normal;
+	margin-left: 25px;
+}
