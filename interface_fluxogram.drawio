@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2020-09-17T23:44:34.958Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="9JX_5sqBlMr7oegp6HuF" version="13.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-21T13:50:58.892Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="ikKOKrST3yh77jOnWIdc" version="13.7.3" type="github">
   <diagram id="xqZ2OV28xCq9xDAmoR5-" name="Page-1">
-    <mxGraphModel dx="2012" dy="1796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2012" dy="1862" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="u07Ow-o7BdIcJwOrp0N0-1" value="&lt;div&gt;Main landing page&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- WEBMAIL ACCESS&lt;/div&gt;&lt;div&gt;- ADMINISTRATIVE ACCESS&lt;/div&gt;&lt;div&gt;- SYSTEM STATUS&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- public news&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- new user&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+        <mxCell id="u07Ow-o7BdIcJwOrp0N0-1" value="&lt;div&gt;Main landing page&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- WEBMAIL ACCESS&lt;/div&gt;&lt;div&gt;- ADMINISTRATIVE ACCESS&lt;/div&gt;&lt;div&gt;- SYSTEM STATUS&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- public news&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-language selection&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="40" y="40" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="u07Ow-o7BdIcJwOrp0N0-2" value="&lt;div&gt;WEBMAIL&lt;/div&gt;&lt;div&gt;LOGIN&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Login Information&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="400" y="40" width="120" height="60" as="geometry" />
+        <mxCell id="u07Ow-o7BdIcJwOrp0N0-2" value="&lt;div&gt;WEBMAIL&lt;/div&gt;&lt;div&gt;LOGIN&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Login Information&lt;/div&gt;&lt;div&gt;&lt;div&gt;- new user&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="40" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="u07Ow-o7BdIcJwOrp0N0-6" value="&lt;div&gt;WEBMAIL ACESS&lt;/div&gt;" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;exitX=1.009;exitY=0.396;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="u07Ow-o7BdIcJwOrp0N0-1" target="u07Ow-o7BdIcJwOrp0N0-2" edge="1">
           <mxGeometry x="0.0854" y="9" width="60" relative="1" as="geometry">
@@ -66,10 +66,10 @@
         <mxCell id="u07Ow-o7BdIcJwOrp0N0-24" value="&lt;div&gt;EMAIL ADMINISTRATION&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Create User&lt;/div&gt;&lt;div&gt;- Delete User&lt;/div&gt;&lt;div&gt;- List User&lt;/div&gt;&lt;div&gt;- Edit User&lt;/div&gt;" style="html=1;" parent="1" vertex="1">
           <mxGeometry x="600" y="300" width="230" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="u07Ow-o7BdIcJwOrp0N0-25" value="&lt;div align=&quot;left&quot;&gt;-- WiFi Configuration&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;. IP / NETMASK ADDRESS&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;. SSID NETWORK NAME&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;. WIFI CHANNEL&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;-- UUCP Configuration&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;. HOSTNAME (callsign)&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;. ALIAS&lt;br&gt;&lt;/div&gt;" style="html=1;" parent="1" vertex="1">
+        <mxCell id="u07Ow-o7BdIcJwOrp0N0-25" value="&lt;div align=&quot;left&quot;&gt;- WiFi Configuration&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;. IP / NETMASK ADDRESS&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;. SSID NETWORK NAME&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;. WIFI CHANNEL&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- UUCP Configuration&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;. HOSTNAME (callsign)&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;. ALIAS&lt;br&gt;&lt;/div&gt;" style="html=1;" parent="1" vertex="1">
           <mxGeometry x="600" y="450" width="230" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="u07Ow-o7BdIcJwOrp0N0-26" value="NETWORK" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" target="u07Ow-o7BdIcJwOrp0N0-25" edge="1" source="u07Ow-o7BdIcJwOrp0N0-12">
+        <mxCell id="u07Ow-o7BdIcJwOrp0N0-26" value="NETWORK" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="u07Ow-o7BdIcJwOrp0N0-12" target="u07Ow-o7BdIcJwOrp0N0-25" edge="1">
           <mxGeometry width="60" relative="1" as="geometry">
             <mxPoint x="475" y="380" as="sourcePoint" />
             <mxPoint x="535" y="380" as="targetPoint" />
@@ -105,39 +105,48 @@
           </mxGeometry>
         </mxCell>
         <UserObject label="https://github.com/iredmail/iRedMail" link="https://github.com/iredmail/iRedMail" id="Okg7-W8hnO9gK6_EVltw-1">
-          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxCell style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="920" y="50" width="220" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="Okg7-W8hnO9gK6_EVltw-3" value="user creates it&#39;s own accounts?&lt;br&gt;yes" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Okg7-W8hnO9gK6_EVltw-3" value="user creates it&#39;s own accounts?&lt;br&gt;yes" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="920" y="160" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Okg7-W8hnO9gK6_EVltw-5" value="multilanguage" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Okg7-W8hnO9gK6_EVltw-5" value="multilanguage" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="920" y="240" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Okg7-W8hnO9gK6_EVltw-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Okg7-W8hnO9gK6_EVltw-7" target="Okg7-W8hnO9gK6_EVltw-8">
+        <mxCell id="Okg7-W8hnO9gK6_EVltw-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Okg7-W8hnO9gK6_EVltw-7" target="Okg7-W8hnO9gK6_EVltw-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Okg7-W8hnO9gK6_EVltw-7" value="user" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="920" y="340" width="160" height="60" as="geometry" />
+        <mxCell id="Okg7-W8hnO9gK6_EVltw-7" value="user" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="910" y="350" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Okg7-W8hnO9gK6_EVltw-8" value="name" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="920" y="424" width="160" height="33" as="geometry" />
+        <mxCell id="Okg7-W8hnO9gK6_EVltw-8" value="name" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="910" y="434" width="160" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="Okg7-W8hnO9gK6_EVltw-9" value="phone" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="920" y="457" width="160" height="31" as="geometry" />
+        <mxCell id="Okg7-W8hnO9gK6_EVltw-9" value="phone" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="910" y="467" width="160" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="Okg7-W8hnO9gK6_EVltw-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="Okg7-W8hnO9gK6_EVltw-9" target="Okg7-W8hnO9gK6_EVltw-9">
+        <mxCell id="Okg7-W8hnO9gK6_EVltw-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="Okg7-W8hnO9gK6_EVltw-9" target="Okg7-W8hnO9gK6_EVltw-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Okg7-W8hnO9gK6_EVltw-11" value="station" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="920" y="488" width="160" height="31" as="geometry" />
+        <mxCell id="Okg7-W8hnO9gK6_EVltw-11" value="station" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="910" y="498" width="160" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="Okg7-W8hnO9gK6_EVltw-12" value="email" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="920" y="519" width="160" height="51" as="geometry" />
+        <mxCell id="Okg7-W8hnO9gK6_EVltw-12" value="email" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="910" y="529" width="160" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="Okg7-W8hnO9gK6_EVltw-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="u07Ow-o7BdIcJwOrp0N0-1" target="u07Ow-o7BdIcJwOrp0N0-1">
+        <mxCell id="Okg7-W8hnO9gK6_EVltw-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="u07Ow-o7BdIcJwOrp0N0-1" target="u07Ow-o7BdIcJwOrp0N0-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X8SwjGHDLmI1YYKJKHw2-1" value="&amp;nbsp;- read messages&lt;br&gt;- reply messages&lt;br&gt;&lt;br&gt;-transmit messages" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X8SwjGHDLmI1YYKJKHw2-4" value="" style="endArrow=none;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="X8SwjGHDLmI1YYKJKHw2-1" target="u07Ow-o7BdIcJwOrp0N0-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="280" as="sourcePoint" />
+            <mxPoint x="110" y="230" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
