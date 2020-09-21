@@ -20,7 +20,7 @@ app.controller('mapaController', ['$scope', '$window', '$http', '$location', '$f
         $scope.arrobj = $filter('orderBy')($scope.arrobj, 'idno');
 
         return $scope.arrobj;
-        //console.log($scope.arrobj);
+        console.log($scope.arrobj);
 
     }, function errorCallback(response) {
 
@@ -53,17 +53,3 @@ app.controller('mapaController', ['$scope', '$window', '$http', '$location', '$f
 
 
 
-
-
-
-
-
-
-//pagina par
-// move esquerda
-// move proxima
-
-
-//pagina impar
-// move direita
-// move proxima

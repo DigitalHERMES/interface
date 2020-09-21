@@ -68,7 +68,6 @@ app.filter('rawHtml', ['$sce', function($sce){
 }]);
 
 
-
 app.filter('array', function() {
   return function(items) {
     var filtered = [];
