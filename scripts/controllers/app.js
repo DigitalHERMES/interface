@@ -28,12 +28,12 @@ app.config(function ($routeProvider, $locationProvider, $httpProvider) {
     $routeProvider
       .
     when('/admin', {
-            templateUrl: 'parts/home.html',
-            controller: 'homeController'
+            templateUrl: 'parts/admin.html',
+            controller: 'hermesController'
         }).otherwise({
         
         templateUrl: 'parts/home.html',
-            controller: 'homeController'
+            controller: 'hermesController'
     });
     
             //$locationProvider.html5Mode(true);

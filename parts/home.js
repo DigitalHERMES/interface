@@ -1,11 +1,10 @@
-app.controller('mapaController', ['$scope', '$window', '$http', '$location', '$filter', function ($scope, $window, $http, $location, $filter) {
+app.controller('hermesController', ['$scope', '$window', '$http', '$location', '$filter', function ($scope, $window, $http, $location, $filter) {
 
 
     //carrega objetos    
 
-    var autores = [];
+    var users = [];
 
- 
     $scope.buscaobj = 'scripts/services/files.json';
 
 
