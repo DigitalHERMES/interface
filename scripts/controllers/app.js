@@ -14,40 +14,28 @@ function addLeadingZeros (n, length)
     return n >= 0 ? zeros : "-" + zeros;
 }
 
-
-
-
-
-//testController end  
-
-
-
+//testController end
 app.config(function ($routeProvider, $locationProvider, $httpProvider) {
 
     //$locationProvider.html5Mode(true);
     $routeProvider
-      .
-    when('/admin', {
+        .
+        when('/admin', {
             templateUrl: 'parts/admin.html',
             controller: 'hermesController'
         }).otherwise({
-        
-        templateUrl: 'parts/home.html',
+            templateUrl: 'parts/home.html',
             controller: 'hermesController'
-    });
-    
-            //$locationProvider.html5Mode(true);
+        });
 
-    
-$httpProvider.defaults.useXDomain = true;
-$httpProvider.defaults.withCredentials = true;
-delete $httpProvider.defaults.headers.common["X-Requested-With"];
-$httpProvider.defaults.headers.common["Accept"] = "application/json";
-$httpProvider.defaults.headers.common["Content-Type"] = "application/json";
-    
-  });
+    //$locationProvider.html5Mode(true);
 
-
+    $httpProvider.defaults.useXDomain = true;
+    $httpProvider.defaults.withCredentials = true;
+    delete $httpProvider.defaults.headers.common["X-Requested-With"];
+    $httpProvider.defaults.headers.common["Accept"] = "application/json";
+    $httpProvider.defaults.headers.common["Content-Type"] = "application/json";
+});
 
 app.filter('numberFixedLen', function () {
     return function (a, b) {
@@ -77,6 +65,3 @@ app.filter('array', function() {
    return filtered;
   };
 });
-
-
-

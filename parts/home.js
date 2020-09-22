@@ -1,13 +1,8 @@
 app.controller('hermesController', ['$scope', '$window', '$http', '$location', '$filter', function ($scope, $window, $http, $location, $filter) {
-
-
-    //carrega objetos    
-
+    //carrega objetos
     var users = [];
 
     $scope.buscaobj = 'scripts/services/files.json';
-
-
 
     $http({
         method: 'GET',
@@ -23,7 +18,6 @@ app.controller('hermesController', ['$scope', '$window', '$http', '$location', '
 
     }, function errorCallback(response) {
 
-
         // or server returns response with an error status.
 
 
@@ -31,22 +25,9 @@ app.controller('hermesController', ['$scope', '$window', '$http', '$location', '
 
     });
 
-
-
-    });
-
-
-
-
-
-
     var query = $location.path();
 
     //observa mudanças no endereço
-
-
-
-
     //end of controller
 }]);
 
