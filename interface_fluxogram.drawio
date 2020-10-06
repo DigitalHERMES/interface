@@ -1,119 +1,115 @@
-<mxfile host="app.diagrams.net" modified="2020-10-06T00:42:19.424Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="Pz77hZLv60yCuwQkI-mb" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-06T19:25:12.875Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="emvBnrD_Z9I-0PL9g6tu" version="13.7.7" type="github">
   <diagram id="xqZ2OV28xCq9xDAmoR5-" name="Page-1">
-    <mxGraphModel dx="2032" dy="1802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1394" dy="1462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="u07Ow-o7BdIcJwOrp0N0-1" value="&lt;div&gt;Main landing page&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- WEBMAIL ACCESS&lt;/div&gt;&lt;div&gt;- ADMINISTRATIVE ACCESS&lt;/div&gt;&lt;div&gt;- SYSTEM STATUS&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- public news&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-language selection&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="40" y="40" width="200" height="200" as="geometry" />
-        </mxCell>
         <mxCell id="u07Ow-o7BdIcJwOrp0N0-2" value="&lt;div&gt;WEBMAIL&lt;/div&gt;&lt;div&gt;LOGIN&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Login Information&lt;/div&gt;&lt;div&gt;&lt;div&gt;- new user&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="330" y="40" width="120" height="90" as="geometry" />
+          <mxGeometry x="-520" y="140" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="u07Ow-o7BdIcJwOrp0N0-6" value="&lt;div&gt;WEBMAIL ACESS&lt;/div&gt;" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;exitX=1.009;exitY=0.396;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="u07Ow-o7BdIcJwOrp0N0-1" target="u07Ow-o7BdIcJwOrp0N0-2" edge="1">
+        <mxCell id="u07Ow-o7BdIcJwOrp0N0-6" value="&lt;div&gt;WEBMAIL ACESS&lt;/div&gt;" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;exitX=-0.007;exitY=0.714;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" parent="1" source="yrOib-SOpFL3OOKO2OIO-3" target="u07Ow-o7BdIcJwOrp0N0-2" edge="1">
           <mxGeometry x="0.0854" y="9" width="60" relative="1" as="geometry">
             <mxPoint x="380" y="380" as="sourcePoint" />
             <mxPoint x="440" y="380" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="u07Ow-o7BdIcJwOrp0N0-7" value="&lt;div&gt;SYSTEM STATUS&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Brief read-only status of the different components of the system&lt;/div&gt;&lt;div&gt;- Network information, like wifi IP and UUCP hostname&lt;br&gt;&lt;/div&gt;" style="html=1;" parent="1" vertex="1">
-          <mxGeometry x="400" y="160" width="390" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="u07Ow-o7BdIcJwOrp0N0-8" value="SYSTEM STATUS" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;exitX=1.009;exitY=0.613;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="u07Ow-o7BdIcJwOrp0N0-1" target="u07Ow-o7BdIcJwOrp0N0-7" edge="1">
-          <mxGeometry width="60" relative="1" as="geometry">
-            <mxPoint x="380" y="380" as="sourcePoint" />
-            <mxPoint x="440" y="380" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="u07Ow-o7BdIcJwOrp0N0-9" value="&lt;div&gt;WEBMAIL INTERFACE&lt;br&gt;&lt;/div&gt;&lt;div&gt;most likely:&lt;/div&gt;&lt;div&gt; https://github.com/jasonmunro/cypht&lt;br&gt;&lt;/div&gt;" style="html=1;" parent="1" vertex="1">
-          <mxGeometry x="520" y="50" width="170" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="u07Ow-o7BdIcJwOrp0N0-10" value="&lt;div&gt;ADMINISTRATIVE ACCESS&lt;/div&gt;" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="u07Ow-o7BdIcJwOrp0N0-1" target="u07Ow-o7BdIcJwOrp0N0-14" edge="1">
-          <mxGeometry width="60" relative="1" as="geometry">
-            <mxPoint x="280" y="250" as="sourcePoint" />
-            <mxPoint x="380" y="330" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="u07Ow-o7BdIcJwOrp0N0-11" value="&lt;div&gt;Login successful&lt;/div&gt;" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="u07Ow-o7BdIcJwOrp0N0-2" target="u07Ow-o7BdIcJwOrp0N0-9" edge="1">
-          <mxGeometry x="0.0309" y="10" width="60" relative="1" as="geometry">
-            <mxPoint x="534" y="90" as="sourcePoint" />
-            <mxPoint x="594" y="90" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
+        <mxCell id="u07Ow-o7BdIcJwOrp0N0-7" value="&lt;div&gt;SYSTEM STATUS&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Brief read-only status of the&amp;nbsp;&lt;/div&gt;&lt;div&gt;different components of the system&lt;/div&gt;&lt;div&gt;- Network information,&lt;/div&gt;&lt;div&gt;&amp;nbsp;like wifi IP and UUCP hostname&lt;br&gt;&lt;/div&gt;" style="html=1;" parent="1" vertex="1">
+          <mxGeometry x="90" y="140" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="u07Ow-o7BdIcJwOrp0N0-12" value="&lt;div&gt;ADMINISTRATIVE INTERFACE&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- EMAIL ADMINISTRATION&lt;/div&gt;&lt;div&gt;- NETWORK ADMINISTRATION&lt;/div&gt;&lt;div&gt;- SYSTEM UPGRADE / RESET&lt;br&gt;&lt;/div&gt;&lt;div&gt;- DETAILED LOG INFORMATION&lt;/div&gt;&lt;div&gt;- ADMIN USERS MANAGEMENT&lt;br&gt;&lt;/div&gt;" style="html=1;" parent="1" vertex="1">
-          <mxGeometry x="180" y="290" width="222.5" height="145" as="geometry" />
+          <mxGeometry x="-240" y="280" width="240" height="145" as="geometry" />
         </mxCell>
         <mxCell id="u07Ow-o7BdIcJwOrp0N0-14" value="&lt;div&gt;ADMINISTRATIVE&lt;/div&gt;&lt;div&gt;LOGIN&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Login Information&lt;br&gt;&lt;/div&gt;" style="html=1;" parent="1" vertex="1">
-          <mxGeometry x="-130" y="270" width="106" height="60" as="geometry" />
+          <mxGeometry x="-240" y="140" width="240" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="u07Ow-o7BdIcJwOrp0N0-17" value="&lt;div&gt;Login successful&lt;/div&gt;" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;exitX=1.019;exitY=0.65;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="u07Ow-o7BdIcJwOrp0N0-14" target="u07Ow-o7BdIcJwOrp0N0-12" edge="1">
+        <mxCell id="u07Ow-o7BdIcJwOrp0N0-17" value="&lt;div&gt;Login successful&lt;/div&gt;" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="u07Ow-o7BdIcJwOrp0N0-14" target="u07Ow-o7BdIcJwOrp0N0-12" edge="1">
           <mxGeometry width="60" relative="1" as="geometry">
-            <mxPoint x="-35" y="400" as="sourcePoint" />
-            <mxPoint x="25" y="400" as="targetPoint" />
+            <mxPoint x="-355.7359999999999" y="160" as="sourcePoint" />
+            <mxPoint x="261.25" y="411" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="u07Ow-o7BdIcJwOrp0N0-22" value="&quot;Forest side&quot; Web Interface Fluxogram" style="html=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="-40" width="230" height="40" as="geometry" />
+        <mxCell id="u07Ow-o7BdIcJwOrp0N0-22" value="&lt;b&gt;&quot;Forest side&quot; &lt;br&gt;Web Interface Fluxogram&lt;/b&gt;" style="html=1;" parent="1" vertex="1">
+          <mxGeometry x="-520" y="-70" width="200" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="u07Ow-o7BdIcJwOrp0N0-23" value="&lt;div&gt;EMAIL&lt;/div&gt;" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="u07Ow-o7BdIcJwOrp0N0-12" target="u07Ow-o7BdIcJwOrp0N0-24" edge="1">
+        <mxCell id="u07Ow-o7BdIcJwOrp0N0-23" value="&lt;div&gt;EMAIL&lt;/div&gt;" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;exitX=-0.002;exitY=0.393;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" parent="1" source="u07Ow-o7BdIcJwOrp0N0-12" target="u07Ow-o7BdIcJwOrp0N0-24" edge="1">
           <mxGeometry width="60" relative="1" as="geometry">
-            <mxPoint x="95" y="370" as="sourcePoint" />
-            <mxPoint x="265" y="290" as="targetPoint" />
+            <mxPoint x="331.25" y="381" as="sourcePoint" />
+            <mxPoint x="501.25" y="301" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="u07Ow-o7BdIcJwOrp0N0-24" value="&lt;div&gt;EMAIL ADMINISTRATION&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Create User&lt;/div&gt;&lt;div&gt;- Delete User&lt;/div&gt;&lt;div&gt;- List User&lt;/div&gt;&lt;div&gt;- Edit User&lt;/div&gt;" style="html=1;" parent="1" vertex="1">
-          <mxGeometry x="510" y="290" width="230" height="100" as="geometry" />
+          <mxGeometry x="-520" y="280" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="u07Ow-o7BdIcJwOrp0N0-25" value="&lt;div align=&quot;left&quot;&gt;- WiFi Configuration&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;. IP / NETMASK ADDRESS&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;. SSID NETWORK NAME&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;. WIFI CHANNEL&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- UUCP Configuration&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;. HOSTNAME (callsign)&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;. ALIAS&lt;br&gt;&lt;/div&gt;" style="html=1;" parent="1" vertex="1">
-          <mxGeometry x="530" y="450" width="230" height="190" as="geometry" />
+          <mxGeometry x="-520" y="410" width="200" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="u07Ow-o7BdIcJwOrp0N0-26" value="NETWORK" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="u07Ow-o7BdIcJwOrp0N0-12" target="u07Ow-o7BdIcJwOrp0N0-25" edge="1">
+        <mxCell id="u07Ow-o7BdIcJwOrp0N0-26" value="NETWORK" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;exitX=0;exitY=1;exitDx=0;exitDy=0;" parent="1" source="u07Ow-o7BdIcJwOrp0N0-12" target="u07Ow-o7BdIcJwOrp0N0-25" edge="1">
           <mxGeometry width="60" relative="1" as="geometry">
-            <mxPoint x="190" y="370" as="sourcePoint" />
-            <mxPoint x="250" y="370" as="targetPoint" />
+            <mxPoint x="426.25" y="381" as="sourcePoint" />
+            <mxPoint x="486.25" y="381" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="u07Ow-o7BdIcJwOrp0N0-28" value="&lt;div&gt;SYSTEM UPGRADE / RESET&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- RESTORE FACTORY CONFIGURATION&lt;/div&gt;&lt;div&gt;- SYSTEM UPGRADE WITH FILE&lt;br&gt;&lt;/div&gt;" style="html=1;" parent="1" vertex="1">
-          <mxGeometry x="180" y="540" width="230" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="u07Ow-o7BdIcJwOrp0N0-29" value="SYSTEM UPGRADE" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;entryX=0.53;entryY=-0.044;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="u07Ow-o7BdIcJwOrp0N0-12" target="u07Ow-o7BdIcJwOrp0N0-28" edge="1">
+        <mxCell id="u07Ow-o7BdIcJwOrp0N0-29" value="SYSTEM UPGRADE" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="u07Ow-o7BdIcJwOrp0N0-12" target="u07Ow-o7BdIcJwOrp0N0-28" edge="1">
           <mxGeometry width="60" relative="1" as="geometry">
-            <mxPoint x="240" y="370" as="sourcePoint" />
-            <mxPoint x="300" y="370" as="targetPoint" />
+            <mxPoint x="476.25" y="381" as="sourcePoint" />
+            <mxPoint x="536.25" y="381" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="u07Ow-o7BdIcJwOrp0N0-30" value="&lt;div&gt;DETAILED LOG INFORMATION&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Log of UUCP and modem outputs&lt;/div&gt;&lt;div&gt;Drop to shell option?&lt;br&gt;&lt;/div&gt;" style="html=1;" parent="1" vertex="1">
-          <mxGeometry x="-205" y="555" width="200" height="60" as="geometry" />
+          <mxGeometry x="90" y="280" width="200" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="u07Ow-o7BdIcJwOrp0N0-32" value="DETAILED LOG INFORMATION" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="u07Ow-o7BdIcJwOrp0N0-12" target="u07Ow-o7BdIcJwOrp0N0-30" edge="1">
-          <mxGeometry x="0.6301" y="-3" width="60" relative="1" as="geometry">
-            <mxPoint x="-225" y="460" as="sourcePoint" />
-            <mxPoint x="-165" y="460" as="targetPoint" />
+        <mxCell id="u07Ow-o7BdIcJwOrp0N0-32" value="LOG" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="u07Ow-o7BdIcJwOrp0N0-12" target="u07Ow-o7BdIcJwOrp0N0-30" edge="1">
+          <mxGeometry x="0.1172" y="3" width="60" relative="1" as="geometry">
+            <mxPoint x="11.25" y="471" as="sourcePoint" />
+            <mxPoint x="71.25" y="471" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="u07Ow-o7BdIcJwOrp0N0-34" value="&lt;div&gt;ADMIN MANAGEMENT&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Create Admin User&lt;/div&gt;&lt;div&gt;- Delete Admin User&lt;/div&gt;&lt;div&gt;- List AdminUser&lt;br&gt;&lt;/div&gt;" style="html=1;" parent="1" vertex="1">
-          <mxGeometry x="-170" y="400" width="150" height="75" as="geometry" />
+          <mxGeometry x="90" y="440" width="200" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="u07Ow-o7BdIcJwOrp0N0-35" value="ADMIN MANAGEMENT" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" parent="1" source="u07Ow-o7BdIcJwOrp0N0-12" target="u07Ow-o7BdIcJwOrp0N0-34" edge="1">
-          <mxGeometry x="0.1138" y="3" width="60" relative="1" as="geometry">
-            <mxPoint x="-85" y="370" as="sourcePoint" />
-            <mxPoint x="-25" y="370" as="targetPoint" />
+        <mxCell id="u07Ow-o7BdIcJwOrp0N0-35" value="ADMIN&amp;nbsp;" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="u07Ow-o7BdIcJwOrp0N0-12" target="u07Ow-o7BdIcJwOrp0N0-34" edge="1">
+          <mxGeometry x="0.0248" y="5" width="60" relative="1" as="geometry">
+            <mxPoint x="135.96982758620697" y="630" as="sourcePoint" />
+            <mxPoint x="670" y="659" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Okg7-W8hnO9gK6_EVltw-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="u07Ow-o7BdIcJwOrp0N0-1" target="u07Ow-o7BdIcJwOrp0N0-1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Okg7-W8hnO9gK6_EVltw-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-127.5" y="65" as="sourcePoint" />
+            <mxPoint x="-127.5" y="65" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="X8SwjGHDLmI1YYKJKHw2-1" value="PUBLIC NEWS&amp;nbsp;&lt;br&gt;&lt;br&gt;-filter station&lt;br&gt;&lt;br&gt;- read messages&lt;br&gt;- reply messages&lt;br&gt;&lt;br&gt;-transmit messages" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-190" y="40" width="170" height="170" as="geometry" />
+          <mxGeometry x="90" y="-70" width="200" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="X8SwjGHDLmI1YYKJKHw2-4" value="" style="endArrow=none;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="X8SwjGHDLmI1YYKJKHw2-1" target="u07Ow-o7BdIcJwOrp0N0-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="60" y="280" as="sourcePoint" />
-            <mxPoint x="110" y="230" as="targetPoint" />
+        <mxCell id="u07Ow-o7BdIcJwOrp0N0-28" value="&lt;div&gt;SYSTEM UPGRADE / RESET&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- RESTORE FACTORY CONFIGURATION&lt;/div&gt;&lt;div&gt;- SYSTEM UPGRADE WITH FILE&lt;br&gt;&lt;/div&gt;" style="html=1;" parent="1" vertex="1">
+          <mxGeometry x="-240" y="510" width="240" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="yrOib-SOpFL3OOKO2OIO-3" value="&lt;div&gt;Main landing page&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- WEBMAIL ACCESS&lt;/div&gt;&lt;div&gt;- ADMINISTRATIVE ACCESS&lt;/div&gt;&lt;div&gt;- SYSTEM STATUS&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- public news&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-language selection&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="-70" width="240" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="yrOib-SOpFL3OOKO2OIO-5" value="STATUS" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="yrOib-SOpFL3OOKO2OIO-3" target="u07Ow-o7BdIcJwOrp0N0-7">
+          <mxGeometry x="0.6301" y="-3" width="60" relative="1" as="geometry">
+            <mxPoint x="10" y="114.375" as="sourcePoint" />
+            <mxPoint x="50" y="110" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yrOib-SOpFL3OOKO2OIO-6" value="ADMIN" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yrOib-SOpFL3OOKO2OIO-3" target="u07Ow-o7BdIcJwOrp0N0-14">
+          <mxGeometry x="0.5221" y="-5" width="60" relative="1" as="geometry">
+            <mxPoint x="-90" y="110" as="sourcePoint" />
+            <mxPoint x="-90" y="150" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yrOib-SOpFL3OOKO2OIO-7" value="MENSAGENS" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="X8SwjGHDLmI1YYKJKHw2-1">
+          <mxGeometry x="0.1045" y="11" width="60" relative="1" as="geometry">
+            <mxPoint y="10" as="sourcePoint" />
+            <mxPoint x="90" y="50" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
